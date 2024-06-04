@@ -1,0 +1,2 @@
+# CLO-835-ASSIGNMENT1-TERRAFORM
+terraform code architecture for CLO835-ASSIGNMENT1
